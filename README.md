@@ -138,7 +138,7 @@ Optional: If you prefer to upload the files via the command line to random subdi
 
 Note: The job may take up to 20 minutes to complete. Once it's finished, you can click "Show results" and then "Show findings."
 
-	![Untitled](images/Untitled2.jpg)
+![Untitled](images/Untitled2.jpg)
 
 13. You should see that the Credit Card, Employee, and Financial files have been detected as containing PII.
 
