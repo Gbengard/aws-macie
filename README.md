@@ -178,7 +178,7 @@ Side note: While writing this, it was observed that the confirmation email somet
 
 Once confirmed, your subscription should be in the "Confirmed" state as shown below:
 
-	![Untitled](images/Untitled3.jpg)
+![Untitled](images/Untitled3.jpg)
 
 ## Stage 4 - EventBridge Setup
 
